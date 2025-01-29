@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeightCalculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
