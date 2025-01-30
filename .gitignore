@@ -398,3 +398,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/WeightPlateCalculator.API/appsettings.Development.json
