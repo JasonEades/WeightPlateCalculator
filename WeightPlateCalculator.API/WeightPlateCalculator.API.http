@@ -1,0 +1,6 @@
+@WeightPlateCalculator.API_HostAddress = http://localhost:5005
+
+GET {{WeightPlateCalculator.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
